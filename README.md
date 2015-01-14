@@ -7,4 +7,4 @@ Art by Trey Miller and Rowan Miller, except there may be some libGDX stock graph
 
 Music and sounds were created by a small lump of green putty I found in my armpit one midsummer morning.
 
-Copyright 2015 Trey Miller
+Original code, art and music Copyright 2015 Trey Miller
