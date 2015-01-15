@@ -181,9 +181,9 @@ public class GameScreen extends BaseScreen {
 
 	@Override
 	public void draw(Batch batch, float parentAlpha) {
-		app.stage.getBatch().end();
+		batch.end();
 		game.render(); // render game first, then this screen on top
-		app.stage.getBatch().begin();
+		batch.begin();
 		super.draw(batch, parentAlpha);
 	}
 
